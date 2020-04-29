@@ -1,5 +1,5 @@
 # Key Program Milestones
-In order to graduate from the program, you must meet the criteria outlined in the “Program Completion” section in the Flatiron School Catalog, which can be viewed by clicking on “View the full United states catalog” here:
+In order to graduate from the program, you must meet the criteria outlined in the “Program Completion” section in the Flatiron School Catalog, which can be viewed by clicking on “View the full United States catalog” here:
 [https://flatironschool.com/north-america-regulatory-information/](https://flatironschool.com/north-america-regulatory-information/). Note that the Online Software Engineering program requires that you publish 7 blog posts in total.
 Below is an overview of the key milestones you’ll work through during your time in the program. 
 ![alt text](https://user-images.githubusercontent.com/7960757/80315493-c2c47100-87ac-11ea-944d-d367ed1a820a.png)
@@ -34,4 +34,4 @@ Project Reviews are pass/fail (not numerically graded) and are used to evaluate 
 
 You will be informed at the end of the project review session whether you have passed or not. If you do not pass the review satisfactorily on your first attempt, you will have the opportunity to reschedule the review.
 
-Note:  All students will be given two attempts to pass a Portfolio Project review within two weeks of the project due date. If you’re unable to pass the review within two weeks of the project due date, you will have the option to repeat the module in accordance with the policies outlined in the “Program Changes” section in the Flatiron School Catalog, which can be viewed by clicking on “View the full United states catalog” here: [https://flatironschool.com/north-america-regulatory-information/](https://flatironschool.com/north-america-regulatory-information/).
+Note:  All students will be given two attempts to pass a Portfolio Project review within two weeks of the project due date. If you’re unable to pass the review within two weeks of the project due date, you will have the option to repeat the module in accordance with the policies outlined in the “Program Changes” section in the Flatiron School Catalog, which can be viewed by clicking on “View the full United States catalog” here: [https://flatironschool.com/north-america-regulatory-information/](https://flatironschool.com/north-america-regulatory-information/).
